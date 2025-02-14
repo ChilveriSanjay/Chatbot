@@ -1,0 +1,11 @@
+django
+daphne
+channels
+websockets
+langchain
+langchain_openai
+langchain_core
+langchain_community
+python-dotenv
+channels_redis
+textblob
